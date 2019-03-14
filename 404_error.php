@@ -38,7 +38,7 @@ require_once "comp/component_connectdb.php";
             <div class="checkout-img">
                 <img src="images/404_error.jpg" alt="Attēlu nevarēja ielādēt" style="width:100%;">
                 <div class="on-image-text"> 
-                    <h1>Lapa nav atrasta :(</h1>
+                    <h1>Lapa nav atrasta</h1>
                 </div>
             </div>
         </div>
