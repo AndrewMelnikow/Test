@@ -1,0 +1,4 @@
+# lets ignore this path:
+stat/
+# .log files
+stat/items/*.log
